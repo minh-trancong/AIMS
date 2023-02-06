@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author minh
- *
- */
-module AimsProject {
-}
